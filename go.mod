@@ -15,6 +15,7 @@ require (
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0
+	github.com/go-sql-driver/mysql v1.7.0
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/gorilla/websocket v1.5.0
@@ -24,4 +25,5 @@ require (
 	golang.org/x/crypto v0.4.0
 	golang.org/x/net v0.3.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
+	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22
 )
